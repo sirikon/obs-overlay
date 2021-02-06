@@ -14,3 +14,9 @@ footer {
     right: 0;
     padding: 7px 0 4px 30px;
 }
+
+.tostadora {
+    position: absolute;
+    bottom: 0;
+    right: 50px;
+}

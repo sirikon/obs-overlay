@@ -1,0 +1,22 @@
+/* h1 {
+    color: white;
+    font-size: 20em;
+} */
+
+
+body {
+    border: 30px solid #FF4500;
+    border-width: 30px 30px 0 30px;
+    font-family: monospace;
+}
+
+footer {
+    background-color: #FF4500;
+    color: white;
+    font-size: 2em;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 7px 0 4px 30px;
+}
